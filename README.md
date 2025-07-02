@@ -1,35 +1,24 @@
-# Natours Project
-
-This is a responsive, modern landing page for a fictional travel company called **Natours**, built as part of the Udemy course:  
+# 🏞️ Natours Project
+This project was created as part of the Udemy course  
 **“Advanced CSS and Sass: Flexbox, Grid, Animations and More!”** by Jonas Schmedtmann.
 
-## 📄 Project Overview
+## 📚 Project Description
 
-The Natours project is a front-end website built to practice advanced CSS techniques and architecture. It demonstrates how to structure and style a large-scale web page using:
+**Natours** is a modern, responsive landing page for a fictional adventure tours company.
+The goal of the project is to build an engaging and immersive layout using CSS Grid and Flexbox, with a focus on Sass architecture, animations, and responsive design.
 
-- Advanced **Sass** features (variables, mixins, functions, partials, imports)
-- **BEM methodology** for CSS class naming
-- **CSS Grid** and **Flexbox** for modern layouts
-- Complex **animations**, transitions, and effects
-- Responsive design for multiple screen sizes
+It demonstrates how to create visually stunning, reusable UI components while applying best practices in CSS structuring and BEM methodology.
 
-## 🚀 Features
-
-- Custom-built grid system
-- Fully responsive layout
-- Reusable components and utility classes
-- Animations on scroll and hover
-- SCSS architecture following the 7-1 pattern
-
-## 🛠 Technologies Used
+## 🔧 Technologies Used
 
 - HTML5
-- SCSS / Sass
-- CSS3 (Flexbox, Grid, Animations)
-- PostCSS + Autoprefixer (build tools)
-- Parcel bundler (optional)
+- Sass (SCSS syntax)
+- Flexbox and CSS Grid layout
+- BEM naming convention
+- Responsive design principles
+- CSS animations and transitions
 
-## ▶️ How to Run
+## 🚀 How to Run the Project Locally
 
 1. Clone the repository:
    ```bash
